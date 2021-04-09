@@ -1,14 +1,14 @@
 body {
-	font-family: 'PT Serif', serif;
+	font-family: 'Lora', serif;
 	
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'PT Serif', serif;
+    font-family: 'Lora', serif;
 }
 
 .subheading	{
-	 font-family: 'PT Serif', serif;
+	 font-family: 'Lora', serif;
 	 font-size: 1.2rem;
 	 font-weight:normal;
 }
