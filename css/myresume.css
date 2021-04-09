@@ -1,14 +1,14 @@
 body {
-	font-family: 'Bentham', serif;
+	font-family: 'Lateef', cursive;
 	
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Bentham', serif;
+    font-family: 'Lateef', cursive;
 }
 
 .subheading	{
-	 font-family: 'Bentham', serif;
+	 font-family: 'Lateef', cursive;
 	 font-size: 1.2rem;
 	 font-weight:normal;
 }
