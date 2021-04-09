@@ -1,14 +1,14 @@
 body {
-	font-family: 'Lateef', cursive;
+	font-family: 'Baskervville', serif;
 	
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    font-family: 'Lateef', cursive;
+    font-family: 'Baskervville', serif;
 }
 
 .subheading	{
-	 font-family: 'Lateef', cursive;
+	 font-family: 'Baskervville', serif;
 	 font-size: 1.2rem;
 	 font-weight:normal;
 }
